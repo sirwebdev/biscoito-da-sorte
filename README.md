@@ -1,7 +1,7 @@
-#Biscoito da Sorte 
+# Biscoito da Sorte 
 
-##Sobre o Projeto
-####Ideia:
+## Sobre o Projeto
+#### Ideia:
 A ideia deste app é de gerar frases aleatorias de acordo com a sorte do usuario.
 
 ##Como Instalar ? 
@@ -11,7 +11,7 @@ A ideia deste app é de gerar frases aleatorias de acordo com a sorte do usuario
 * Com o terminal aberto dê `npm start` para iniciar o App
 * Pronto ! agora é só usar !
 
-##Tecnologias
+## Tecnologias
 * React Js
 
-##Fotos
+## Fotos
