@@ -15,3 +15,5 @@ A ideia deste app é de gerar frases aleatorias de acordo com a sorte do usuario
 * React Js
 
 ## Fotos
+![](iniciar.gif)
+![](biscoito.gif)
